@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body > h1 {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    background-color: lightblue;
+    border-radius: 10px;
+    background-position: 0%;
+    margin-bottom: 20px;
+}
